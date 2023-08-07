@@ -1,6 +1,6 @@
 span {
     background-color: palevioletred;
-    border: 1px solid black;
+    border:1px solid black;
     width: 500px;
     padding: 50px;
     margin: 50px;
@@ -8,7 +8,7 @@ span {
 
 h1 {
     background-color: paleturquoise;
-    border: 1px solid black;
+    border:1px solid black;
     width: 300px;
     height: 200px;
     padding: 50px;
@@ -22,6 +22,5 @@ div {
     background-color: olivedrab;
     border: 5px solid black;
     display: inline-block;
-    margin: 50px;
     padding: 50px;
 }
